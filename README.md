@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brkkartaloglu
-- 👀 I’m interested in Python, ReactJS
+- 👀 I’m interested in Python, ReactJS, MERN Stack
 - 🌱 I’m currently learning Python, ReactJS
 
 
